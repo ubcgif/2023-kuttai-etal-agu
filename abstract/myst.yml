@@ -1,35 +1,30 @@
 version: 1
 project:
-  # id: ubcgif-YEAR-AUTHORS-CONFERENCE
-  # title: TITLE
-  # description: DESCRIPTION
+  id: ubcgif-2023-kuttai-etal-agu
+  title: Comparing strategies for assessing uncertainty with geophysical inversions for mineral exploration
+  description: Talk presented in session SY41A-1036
   authors:
-    # - name: AUTHOR 1
+    - name: Johnathan C. Kuttai
     #   email: EMAIL
-    #   corresponding: true
+      corresponding: true
     #   orcid: ORCID
-    #   affiliation:
-    #     id: ubc
-    #     name: Department of Earth, Ocean and Atmospheric Sciences, University of British Columbia, Vancouver, British Columbia
-    # - name: Lindsey J. Heagy
-    #   email: lheagy@eoas.ubc.ca
-    #   corresponding: true
-    #   orcid: 0000-0002-1551-5926
-    #   affiliation: ubc
-    # - name: Douglas W. Oldenburg
-    #   affiliation: ubc
-    #   email: doug@eos.ubc.ca
-    #   orcid: 0000-0002-4327-2124
+      affiliation:
+        id: ubc
+        name: Department of Earth, Ocean and Atmospheric Sciences, University of British Columbia, Vancouver, British Columbia
+    - name: Lindsey J. Heagy
+      email: lheagy@eoas.ubc.ca
+      orcid: 0000-0002-1551-5926
+      affiliation: ubc
   # banner: banner.png
   thumbnail: thumbnail.png
   # subject: Electromagnetics
   venue:
-    # title: CONFERENCE NAME
-    # url: CONFERENCE URL
+    title: AGU Fall Meeting
+    url: https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1409882
   # license: CC-BY-4.0
   # open_access: true
   # doi: DOI
-  # date: DATE OF PRESENTATION
+  date: December 14, 2023
   abbreviations:
     # DC: direct current
     # EM: electromagnetics
@@ -44,9 +39,9 @@ project:
 site:
   template: article-theme
   actions:
-    # - title: pdf
-    #   url: ARTICLE-NAME.pdf
-    #   static: true
+    - title: poster
+      url: presentation/2023-AGU_poster-JK-LH.pdf
+      static: true
     # - title: slides
     #   url: presentation/SLIDES-NAME.pdf
     #   static: true
