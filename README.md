@@ -1,2 +1,2 @@
-# template-repository-conference
-template repository for conference proceedings
+# Comparing strategies for assessing uncertainty with geophysical inversions for mineral exploration
+
