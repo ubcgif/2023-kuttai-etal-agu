@@ -40,7 +40,7 @@ site:
   template: article-theme
   actions:
     - title: poster
-      url: presentation/2023-AGU_poster-JK-LH.pdf
+      url: abstract/presentation/2023-AGU_poster-JK-LH.pdf
       static: true
     # - title: slides
     #   url: presentation/SLIDES-NAME.pdf
