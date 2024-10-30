@@ -1,5 +1,6 @@
 ---
 title: 'Comparing strategies for assessing uncertainty with geophysical inversions for mineral exploration'
+
 abstract: |
     Drilling plays a crucial role in exploration programs, and geophysical data often aid in choosing drill locations. Electromagnetic methods, sensitive to subsurface conductivity, are commonly used to create subsurface models for this purpose. However, geophysical inversions are inherently non-unique, as multiple Earth models can fit the data. Therefore, the uncertainty in the obtained models is of interest. However, formal uncertainty quantification poses a challenge, given the difficulty in translating the ultimate decision into a mathematical framework. Our work is to aim at using a blend of deterministic and Bayesian methods to assess uncertainty.
 
