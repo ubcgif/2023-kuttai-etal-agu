@@ -10,4 +10,4 @@ abstract: |
  In this presentation, we will explore the assessment of uncertainty in inversions of magnetotelluric and DC resistivity data by utilizing various combinations of the above methods and priors. We will explore what information can be extracted from each and assess the strengths and weaknesses for addressing uncertainty-related questions relevant to mineral exploration.
 ---
 
-![thumbnail](abstract/presentation/2023-AGU_poster-JK-LH-1.png)
+![thumbnail](presentation/2023-AGU_poster-JK-LH-1.png)
