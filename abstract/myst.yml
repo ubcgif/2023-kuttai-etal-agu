@@ -2,7 +2,7 @@ version: 1
 project:
   id: ubcgif-2023-kuttai-etal-agu
   title: Comparing strategies for assessing uncertainty with geophysical inversions for mineral exploration
-  description: Talk presented in session SY41A-1036
+  description: Talk presented at the American Geophysical Union (AGU) Fall Meeting in session SY41A-1036
   authors:
     - name: Johnathan C. Kuttai
     #   email: EMAIL
